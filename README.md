@@ -6,7 +6,7 @@ Me chamo Tiago Sousa, tenho 26 anos e sou de São Bernardo do Campo - SP.
 
 Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) na UMESP e estou construindo minha carreira no desenvolvimento de software, com foco em Inteligência Artificial.
 
-Sempre fui apaixonado por tecnologia e estou constantemente estudando e desenvolvendo projetos para aprimorar minhas habilidades e transformar conhecimento em soluções reais.
+Sempre fui apaixonado por tecnologia e estou sempre estudando e desenvolvendo projetos para aprimorar minhas habilidades e transformar conhecimento em soluções reais.
 
 ---
 
