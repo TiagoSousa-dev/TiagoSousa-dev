@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tiago Sousa
 
-**``Desenvolvedor Backend em formação | Foco em IA`**
+**`Desenvolvedor Backend em formação | Foco em IA`**
 
 Me chamo Tiago Sousa, tenho 26 anos e sou de São Bernardo do Campo - SP.
 
